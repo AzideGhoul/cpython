@@ -1,0 +1,4 @@
+from colorama import Fore
+def main():
+  print(Fore.GREEN + f"Hello World")
+main()
